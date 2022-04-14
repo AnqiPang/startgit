@@ -3,7 +3,7 @@
 echo "Uninstalling gitstart..."
 
 # check installation
-install_path=$(command -v gitstart)
+install_path=$(command -v startgit)
 gitstart_config=$HOME/.gitstart_config
 
 # awesome installation path $HOME/.local/share/bin
