@@ -9,7 +9,7 @@ unset github_username dir repo license_url
 
 script_name=$(basename "$0")
 dir=""
-version="0.3.0"
+version="2.0.1"
 gitstart_cofig=$HOME/.gitstart_config
 
 usage() {
